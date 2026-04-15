@@ -39,7 +39,7 @@ The dataset consists of multiple related tables:
 
 ## 🔗 Entity Relationship Diagram (ERD)
 
-![ER Diagram](images/er-diagram.png)
+er-diagram.png
 
 ---
 
