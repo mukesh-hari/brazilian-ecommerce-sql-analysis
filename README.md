@@ -35,11 +35,6 @@ The dataset consists of multiple related tables:
 * Defined Primary Keys and Foreign Keys
 * Established relationships between tables
 
----
-
-## 🔗 Entity Relationship Diagram (ERD)
-
-![ER Diagram](er-diagram.png)
 
 ---
 
