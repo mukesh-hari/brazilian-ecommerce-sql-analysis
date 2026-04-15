@@ -81,7 +81,8 @@ The dataset consists of multiple related tables:
 brazilian-ecommerce-sql-analysis/
 │
 ├── sql/
-│   └── project.sql
+│   ├── project.sql
+│   └── questions.sql
 │
 ├── images/
 │   └── er-diagram.png
